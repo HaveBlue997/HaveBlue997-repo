@@ -1,0 +1,16 @@
+aws cloudformation validate-template --template-body file:////Users/clcar/GitHub/HaveBlue997-repo/MB4/cfn/MB4-Webserver-1.JSON
+
+Git Projects on MBP:
+clcar$ ls -1
+HaveBlue997-repo
+OpenGuide-aws
+aws-cloudformation-templates
+ecs-refarch-cloudformation
+git-secrets
+https---github.com-awslabs-opsworks-linux-demo-cookbook-nodejs.git
+opsworks-chad
+opsworks-demo-php-simple-app
+opsworks-linux-demo-chad
+opsworks-linux-demo-cookbook-nodejs
+quickstart-aws-vpc
+quickstart-linux-bastion
